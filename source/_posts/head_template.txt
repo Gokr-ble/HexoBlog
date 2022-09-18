@@ -1,0 +1,10 @@
+title: 
+date: 
+tags: skills
+menu: 
+    Go Home: /index.html
+categories: 技术分享
+cover: /gallery/thumbnails/
+thumbnail: /gallery/thumbnails/
+toc: true
+comments: true
