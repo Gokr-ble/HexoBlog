@@ -29,7 +29,7 @@
     "hexo-theme-landscape": "^0.0.3",
     "hexo-util": "^2.7.0",
     "inferno": "^7.3.3",
-    "inferno-create-element": "^7.3.3",
+    "inferno-create-element": "^8.2.1",
     "semver": "^7.3.7"
   }
 }
